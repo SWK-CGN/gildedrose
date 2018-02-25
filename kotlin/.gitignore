@@ -1,0 +1,10 @@
+# IDEA
+.idea
+out
+
+# Gradle
+.gradle
+build
+
+# OS X
+.DS_Store
